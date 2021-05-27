@@ -1,0 +1,28 @@
+[
+  {
+    "Message_Id": "PH_ERC_SM_CrisisEmployeeOption1",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Philippines Crisis Employee Option 1</speak>"
+  },
+  {
+    "Message_Id": "PH_ERC_SM_CrisisEmployeeOption2",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>If you are an employee based in the Philippines and inquiring about your 2019 B I R 2 3 1 6 form, please be advised that you can access and review the form at Philpay portal, visit amazon.philpay.ph. The portal is available inside Amazon network or externally. Please use your employee ID to access Philpay. You are required to provide your e-signature on, or before February 24, 2020.</speak>"
+  },
+  {
+    "Message_Id": "PH_ERC_SM_Frontline",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Philippines Crisis Employee Option 1</speak>"
+  },
+  {
+    "Message_Id": "PH_ERC_SM_Welcome",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>We are temporarily experiencing internet connection issue due to the typhoon. Encouraging you to send an email via p h l hyphen e r c at amazon dot com or submit a trouble ticket to us, we will reply within 24 hours.</speak>"
+  }
+]
+
+

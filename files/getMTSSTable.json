@@ -1,0 +1,86 @@
+[
+  {
+    "BusinessGroup": "CRC",
+    "Message": "Amazon CRC: You reached out to us regarding time off benefits or pay and additional action is required. Please check your email for a message from your case manager with next steps. Reply STOP to opt-out. Standard messaging rates may apply.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "CRC – Missing/Incorrect Documentation"
+  },
+  {
+    "BusinessGroup": "ERC",
+    "Message": "Amazon ERC: Your pay card has been funded. If you have a new Wisely card, make sure to activate it at www.activatewisely.com. Replies to this message will not be answered.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Payment Card"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Your immigration has been initiated and your questionnaire requires your review. Please check your email to begin the process. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Immigration Initiation"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Amazon: Your new hire paperwork and I-9 form have been sent to you. Please check your email to login into MyDocs and I-9 Advantage to complete. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "MD and I-9 Initiation"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Amazon: Your I-9 form is still pending completion. Please log into I-9 Advantage and complete the form. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Pending 7 Day Reminder - I-9 only"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Amazon: Your MyDocs are still pending your completion. Please log into MyDocs and complete your new hire paperwork. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Pending 7 Day Reminder - MD only"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Amazon: Your I-9 Form and MyDocs are still pending your completion. Please log into the the systems and complete them. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Pending 7 day Reminder - I-9 and MD"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Amazon: Your start date has been changed. You should receive an email regarding the change. Please contact your recruiter for any questions. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Pushed Start Date"
+  },
+  {
+    "BusinessGroup": "EOB-US",
+    "Message": "Amazon: All actions required for your Day 1 are complete. You are ready to start. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Ready to Start"
+  },
+  {
+    "BusinessGroup": "GWA-UK",
+    "Message": "Amazon Work Authorization - FINAL REMINDER: Hello, This is a message from Amazon. We sent an important email to you from UK-Right-to-Work-Check@amazon.com, regarding your need to complete a Right to Work Check before expiration. Please check your personal email. If you did not receive an email, please contact your HR partner and Manager urgently. Non-compliance may result in an employment suspension. Replies to this message will not be answered.",
+    "OriginationNumber": "+447441441997",
+    "TemplateName": "Expiring Work Authorization"
+  },
+  {
+    "BusinessGroup": "GWA-US",
+    "Message": "Amazon Work Authorization: Additional actions are required for work authorization. Please check your email for instructions.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "E-verify Pending"
+  },
+  {
+    "BusinessGroup": "GWA-US",
+    "Message": "Amazon Work Authorization: Your I-9 form is pending completion and must be complete within 3 business days of start date. Please check your email from I-9 Advantage to login and complete required actions. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "I-9 Form Pending (After Start Date)"
+  },
+  {
+    "BusinessGroup": "GWA-US",
+    "Message": "Amazon Work Authorization: FINAL REMINDER: Hello, This is a message from Amazon. We sent an important email to youregarding your need to complete an I-9 form within 3 days of hire date. Please check your personal email. If you did not receive an email, please contact your HR partner and Manager urgently. Non-compliance may result in an employment suspension. Replies to this message will not be answered.",
+    "OriginationNumber": "+17075040784",
+    "TemplateName": "Suspension Warning"
+  },
+  {
+    "BusinessGroup": "SS-US",
+    "Message": "Amazon: Your background check has been initiated with our vendor, Accurate. Please check your email to begin the process. Please reply STOP to unsubscribe to messages.",
+    "OriginationNumber": "+18333380536",
+    "TemplateName": "BGC Initiation Text"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Message_Id": "AE_ERC_SM_Crisis",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis, English.</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_Crisis",
+    "Enabled": "false",
+    "Language": "ar-AE",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis, Arabic.</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_CrisisEmployee",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis Employee, English.</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_CrisisEmployee",
+    "Enabled": "false",
+    "Language": "ar-AE",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis Employee, Arabic</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_CrisisEmployeeOption1",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis Employee Option 1, English</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_CrisisEmployeeOption1",
+    "Enabled": "false",
+    "Language": "ar-AE",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis Employee Option 1, English</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_CrisisEmployeeOption2",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis Employee Option 2, English </speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_CrisisEmployeeOption2",
+    "Enabled": "false",
+    "Language": "ar-AE",
+    "Text_Preview": "<speak>Temporary situational message, United Arab Emirates Crisis Employee Option 2, English </speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_Frontline",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak> thank you for calling Amazon Employee Services. Kindly note that Ramadan timing is from Sunday to Thursday 9: 00 AM to 5: 00 PM UAE Time</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_Frontline",
+    "Enabled": "false",
+    "Language": "ar-AE",
+    "Text_Preview": "<speak> شكرا لاتصالكم بامازون خدمات الموارد البشرية. الرجاء العلم ان اوقات العمل خلال شهر رمضان المبارك هي من الاحد الى الخميس من الساعة التاسعة صباحا حتى الساعة الخامسة مساءا بتوقيت الامارات العربية المتحدة </speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_Welcome",
+    "Enabled": "false",
+    "Language": "en-US",
+    "Text_Preview": "<speak>Thank you for calling Amazon Employee Resource Center.Please note that our services are unavailable on Sunday 2nd of August on the occasion of Adha Holiday. Our services will resume on Monday 3rd of August from 9 am to 6 pm UAE time</speak>"
+  },
+  {
+    "Message_Id": "AE_ERC_SM_Welcome",
+    "Enabled": "false",
+    "Language": "ar-AE",
+    "Text_Preview": "<speak> شكرا لاتصالكم بمركز خدمات الموظفين لشركة أمازون. بمناسبة عيد اضحى المبارك، يرجى العلم بأن يوم الاحد الموافق الثاني من اغسطس هو عطلة رسمية، و سنستمر في تقديم خدماتنا يوم الاثنين الثالث من اغسطس. في تمام الساعه التاسعه صباحاً وحتي السادسهة مساءً بتوقيت الامارات المتحدة، وكل عام وانتم بخير</speak>"
+  }
+]
+
+
+
+
